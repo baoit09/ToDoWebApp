@@ -9,6 +9,7 @@ namespace ToDoWebApp.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            int a;
         }
     }
 }
